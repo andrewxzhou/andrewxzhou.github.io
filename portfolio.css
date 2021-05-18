@@ -9,7 +9,8 @@ p {
   margin-left: 10%;
 }
 .divider {
-  width: 100%;
+  width: 60%;
   background-color: #003366;
-  height: 50px;
+  height: 20px;
+  border-radius: 5px;
 }
