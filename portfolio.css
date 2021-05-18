@@ -8,3 +8,8 @@ p {
   margin-right: 10%;
   margin-left: 10%;
 }
+.divider {
+  width: 100%;
+  background-color: #003366;
+  height: 50px;
+}
