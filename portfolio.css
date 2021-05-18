@@ -14,3 +14,17 @@ p {
   height: 20px;
   border-radius: 5px;
 }
+.nav {
+  background-color: #a6a1ed;
+  color: white;
+}
+a {
+  padding-left: 30px;
+  padding-right: 30px;
+  float:left;
+  border-style: solid;
+  border-color: blue;
+  background-color: #a6a1ed;
+  color: white;
+
+}
