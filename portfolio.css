@@ -13,6 +13,7 @@ p {
   background-color: #003366;
   height: 20px;
   border-radius: 5px;
+  margin: auto;
 }
 .nav {
   background-color: #a6a1ed;
