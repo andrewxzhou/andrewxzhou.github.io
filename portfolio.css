@@ -18,8 +18,12 @@ p {
 .nav {
   background-color: #a6a1ed;
   color: white;
-  margin:auto;
   font-family: Georgia, Lora, Merriweather, serif;
+  margin: auto;
+
+}
+nav {
+  margin: auto;
 }
 .navlinks {
   padding-left: 60px;
@@ -31,6 +35,7 @@ p {
   border-color: blue;
   background-color: #a6a1ed;
   color: white;
+  margin:auto;
 
 }
 img {
