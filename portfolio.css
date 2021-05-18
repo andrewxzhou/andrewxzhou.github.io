@@ -31,3 +31,10 @@ p {
   color: white;
 
 }
+img {
+  margin-left:20%;
+}
+h1 {
+  margin-left:10%;
+  font-family: Verdana, sans-serif;
+}
