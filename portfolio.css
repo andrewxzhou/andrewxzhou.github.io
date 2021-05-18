@@ -18,7 +18,7 @@ p {
 .nav {
   background-color: #a6a1ed;
   color: white;
-  margin-left:30%;
+  margin:auto;
   font-family: Georgia, Lora, Merriweather, serif;
 }
 .navlinks {
@@ -32,7 +32,7 @@ p {
 
 }
 img {
-  margin-left:20%;
+  margin-left:10%;
 }
 h1 {
   margin-left:10%;
