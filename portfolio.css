@@ -50,9 +50,23 @@ strong {
   font-size:18;
 }
 span {
-  color:#b9b9b9;
+  color:#89bdb9;
   font-weight:bold;
 }
 .special {
   color:#696969
+}
+table {
+  margin-left:20%;
+  margin-right:20%;
+  font-family:Chivo,Lato, "Open Sans", sans-serif;
+}
+th, td {
+  padding:5px;
+}
+th {
+  background-color:#99c1d6;
+}
+th {
+  max-width:200px;
 }
