@@ -50,7 +50,7 @@ strong {
   font-size:18;
 }
 span {
-  color:#89bdb9;
+  color:#a3a0cf;
   font-weight:bold;
 }
 .special {
@@ -76,7 +76,7 @@ th {
 td {
   padding:15px;
 }
-/* code from w3schools */
+/* rows and columns code from w3schools */
 .column1 {
   float: left;
   width: 48%;
