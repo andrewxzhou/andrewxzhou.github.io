@@ -101,5 +101,9 @@ td {
   margin-left:2%;
 }
 .right {
-  margin-left:2%
+  margin-left:2%;
+}
+.portrait {
+  max-width:30%;
+  margin-left:20%;
 }
