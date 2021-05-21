@@ -15,28 +15,44 @@ p {
   border-radius: 5px;
   margin: auto;
 }
-.nav {
-  background-color: #a3a0cf;
-  color: white;
-  font-family: Georgia, Lora, Merriweather, serif;
-  margin: auto;
 
-}
 nav {
-  margin-left: 15%;
+  margin: 0;
+  padding: 0;
 }
 .navlinks {
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
   padding-top: 10px;
   padding-bottom: 10px;
   float:left;
   border-style: solid;
-  border-color: #8985c1;
+  border-color: #a3a0cf;
   background-color: #a3a0cf;
   color: white;
-  margin:auto;
 
+}
+.navlinks:hover {
+  background-color: #8985c1;
+  border-color: #8985c1;
+}
+ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  background-color: #a3a0cf;
+  color: white;
+  font-family: Georgia, Lora, Merriweather, serif;
+}
+li {
+  float:left;
+  font-size:18;
+  font-weight:bold;
+}
+.active {
+  background-color:#d1a49f;
+  border-color:#d1a49f;
 }
 img {
   margin-left:20%;
@@ -106,4 +122,8 @@ td {
 .portrait {
   max-width:30%;
   margin-left:20%;
+}
+
+h1 {
+  clear:both;
 }
