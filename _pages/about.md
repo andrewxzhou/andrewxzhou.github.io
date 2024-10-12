@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -11,9 +10,9 @@ profile:
   more_info: >
     <p>scs day chonk!!</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 hi! I'm a current sophomore in CS at [Carnegie Mellon University](https://www.cmu.edu/). 
@@ -30,7 +29,6 @@ i have \(maybe too many\) hobbies and interests. Some of them are
 - 20th century chinese history
 - comfy slice-of-life anime
 - politics
-- 
 
 
 
